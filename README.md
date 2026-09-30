@@ -1,16 +1,36 @@
-## Hi there 👋
+# Adalberto Saturnino
 
-<!--
-**adalbertosaturnino1111/adalbertosaturnino1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development • Data • Automation
 
-Here are some ideas to get you started:
+I build practical solutions that connect software, data and process automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on turning operational challenges into structured, scalable solutions — combining development, data analysis, integrations and intelligent automation.
+
+---
+
+### What I work with
+
+**Development**  
+JavaScript • Google Apps Script • APIs • Git • GitHub
+
+**Data & Analytics**  
+SQL • Data Analysis • Google Sheets • Data Processing
+
+**Automation & Integration**  
+AppSheet • Workflow Automation • Google Workspace • Gemini API
+
+---
+
+### Featured Project
+
+#### Credentialing Automation
+
+A document credentialing workflow designed to automate document processing, validation and status management through an integrated solution using **Google Apps Script, Google Sheets, Google Drive, AppSheet and Gemini**.
+
+[View project →](https://github.com/adalbertosaturnino1111/credentialing-automation)
+
+---
+
+### Currently building
+
+Expanding my portfolio with projects focused on **software development, data analytics and business process automation**.
